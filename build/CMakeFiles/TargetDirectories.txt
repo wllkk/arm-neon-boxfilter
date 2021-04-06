@@ -1,3 +1,0 @@
-/home/nvidia/wlk/arm_neon/box_filter/build/CMakeFiles/rebuild_cache.dir
-/home/nvidia/wlk/arm_neon/box_filter/build/CMakeFiles/boxfilter.dir
-/home/nvidia/wlk/arm_neon/box_filter/build/CMakeFiles/edit_cache.dir
