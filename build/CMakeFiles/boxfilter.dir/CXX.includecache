@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/boxFilter.hpp
+
+/home/nvidia/wlk/arm_neon/box_filter/test.cpp
+boxFilter.hpp
+-
+iostream
+-
+opencv2/opencv.hpp
+-
+time.h
+-
+stdlib.h
+-
+
