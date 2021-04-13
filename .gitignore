@@ -7,6 +7,9 @@
 *.o
 *.obj
 
+build/#
+!build/bus.jpg#
+
 # Precompiled Headers
 *.gch
 *.pch
