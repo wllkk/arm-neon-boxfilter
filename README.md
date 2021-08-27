@@ -4,6 +4,8 @@
 - cmake ../
 - make
 
+//利用各种方法优化盒子滤波
+
 测试平台nvidia jetson agx，armv8.2a，1.2GHZ, 使用单核。
 
 图像分辨率为：6000*4000 ，半径 3， 循环次数为 1。 优化等级 -O0 不优化，cache数据使用 valgrind工具集中的 cachegrind得到的。
